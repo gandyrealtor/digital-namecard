@@ -7,7 +7,7 @@ ORG:Vandelay Industires;
 TITLE:Importer - Exporter \n Architect
 EMAIL;type=INTERNET;type=WORK;type=pref:george@email.com
 TEL;type=WORK;type=VOICE:555 555 1212
-item1.ADR;type=WORK;type=pref:;;22-37\n37th Street\, Astoria;NY;;138577;USA
+item1.ADR;type=WORK;type=pref:22-37\n37th Street\, Astoria;NY;;138577;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:georgecostanza.net/
 item2.X-ABLabel:_$!<HomePage>!$_
